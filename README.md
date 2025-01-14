@@ -83,9 +83,6 @@ Algo Chat is an interactive chatbot built using Streamlit that provides detailed
 - Optimize memory usage for handling large documents.
 - Expand predefined prompts for more diverse use cases.
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 ## Acknowledgments
 - [Streamlit](https://streamlit.io/)
 - [LangChain](https://www.langchain.com/)
